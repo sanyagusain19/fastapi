@@ -1,4 +1,4 @@
-# FastAPI and Pydantic Examples
+# FastAPI and Pydantic Examples(how)
 
 A collection of practical examples demonstrating how to use Pydantic for data validation and how to integrate those patterns into FastAPI applications. This repository contains standalone Pydantic example scripts and notes for learning Pydantic v2 features, plus guidance for using Pydantic models inside FastAPI endpoints.
 
